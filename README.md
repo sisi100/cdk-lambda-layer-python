@@ -1,4 +1,4 @@
-テンプレート
+PythonのLambdaLayerを作成するCDKのサンプル
 
 # 構成
 
